@@ -1,2 +1,2 @@
-# PWDGenerator
+# PasswordGenerator
 python password generator
